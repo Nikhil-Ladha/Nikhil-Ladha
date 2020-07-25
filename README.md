@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikhil Ladha</h1>
 <h3 align="center">Passionate front end developer | Open-Source Contributor | Keen to learn new technologies</h3>
+
 - 🔭 I’m currently working on [GlusterFS](github.com/layer5io)
 
 - 👯 I’m looking to collaborate on [Layer5](github.com/layer5io)
 
-- 👨‍💻 All of my projects are available at [github.com/Nikhil-Ladha](github.com/Nikhil-Ladha)
+- 👨‍💻 All of my projects are available at [Github](github.com/Nikhil-Ladha)
 
-- 📝 I regulary write articles on [medium.com/@nikhilladha1999](medium.com/@nikhilladha1999)
+- 📝 I regulary write articles on [Medium](medium.com/@nikhilladha1999)
 
 - 💬 Ask me about **Open-source contribution, Motivation, Career Goals**
 
