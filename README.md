@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikhil Ladha</h1>
 <h3 align="center">Passionate front end developer | Open-Source Contributor | Keen to learn new technologies</h3>
-- 🔭 I’m currently working on [GlusterFS](https://github.com/gluster)
+- 🔭 I’m currently working on [GlusterFS](github.com/layer5io)
 
 - 👯 I’m looking to collaborate on [Layer5](github.com/layer5io)
 
