@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Nikhil Ladha - A Passionate front end developer/Open-Source Contributor</h1>
-<h3 align="center">I am a Maintainer at [Layer5](github.com/layer5io). Always eager to learn new things and try out them.</h3>
+<h3 align="center">I am a Maintainer at <a href="github.com/layer5io">Layer5</a>. Always eager to learn new things and try out them.</h3>
 
 - 🔭 I’m currently working on [GlusterFS](github.com/gluster)
 
@@ -13,6 +13,7 @@
 
 - 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/nikhil-ladha/)
 
+<h4>Few tech stacks on which I have knowledge/experience</h4>
 <p align="left">
   <img src="./html5.svg" alt="HTML" width="40" height="40"/>
   <img src="./css.svg" alt="HTML" width="40" height="40"/>
