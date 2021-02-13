@@ -31,3 +31,6 @@
 <a href="https://linkedin.com/in/nikhil-ladha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nikhil-ladha" height="20" width="20" /></a>
 <a href="https://medium.com/@nikhilladha1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nikhilladha1999" height="20" width="20" /></a>
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nikhil-ladha&show_icons=true" alt="nikhil-ladha" />
+</p>
