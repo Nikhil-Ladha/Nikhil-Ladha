@@ -1,7 +1,7 @@
 <img src="banner.gif" alt="Hello 👋, you seem to have found a way to my GitHub profile!">
-<h3>I am Nikhil Ladha a software engineer by profession (and passion, of course :p). Working at <a href="https://www.redhat.com/en">Red Hat</a> on <a href="https://www.gluster.org/">GlusterFS</a> - A scalable network file system. I also have keen interests in frontend developement and fullfill my desires through open-source contributions :), as result I also turn out to be a Maintainer/MeshMate at <a href="https://www.layer5.io">Layer5</a> - A service mesh company! </h2> 
+<h3>I am Nikhil Ladha a software engineer <img src="code.png" alt="Coding" width="20" height="20" align="center"> by profession (and passion, of course :p). Working at <a href="https://www.redhat.com/en">Red Hat</a> on <a href="https://www.gluster.org/">GlusterFS</a> - A scalable network file system. I also have keen interests in frontend developement and fullfill my desires through open-source contributions :), as result I also turn out to be a Maintainer/MeshMate at <a href="https://www.layer5.io">Layer5</a> - A service mesh company! </h2> 
 
-- 💻 All of my projects are available at <a href="https://www.github.com/Nikhil-Ladha"><img src="github.svg" alt="GitHub Logo" width="20" height="20">GitHub</a>
+- 💻 All of my projects are available at <a href="https://www.github.com/Nikhil-Ladha"><img src="github.svg" alt="GitHub Logo" width="20" height="20" align="center"> GitHub</a>
 
 - 📝 I often write articles on [Medium](medium.com/@nikhilladha1999)
 
