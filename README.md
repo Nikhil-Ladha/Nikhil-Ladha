@@ -1,6 +1,5 @@
 <img src="banner.gif" alt="Hello 👋, you seem to have found a way to my GitHub profile!">
-<h2 align="center">I am Nikhil Ladha a software engineer by profession (and passion, of course :p). Working at <a href="https://www.redhat.com/en">Red Hat</a> on <a href="https://www.gluster.org/">GlusterFS</a> - A scalable network file system. I also have keen interests in frontend developement and fullfill my desires through open-source contributions :), as result I also turn out to be a Maintainer/MeshMate at <a href="https://www.layer5.io">Layer5</a> - A service mesh company! </h2> 
-<h3 align="center">I am a Maintainer at <a href="github.com/layer5io">Layer5</a>. Always eager to learn new things and try them.</h3>
+<h3>I am Nikhil Ladha a software engineer by profession (and passion, of course :p). Working at <a href="https://www.redhat.com/en">Red Hat</a> on <a href="https://www.gluster.org/">GlusterFS</a> - A scalable network file system. I also have keen interests in frontend developement and fullfill my desires through open-source contributions :), as result I also turn out to be a Maintainer/MeshMate at <a href="https://www.layer5.io">Layer5</a> - A service mesh company! </h2> 
 
 - 💻 All of my projects are available at <a href="https://www.github.com/Nikhil-Ladha"><img src="github.svg" alt="GitHub Logo" width="20" height="20">GitHub</a>
 
@@ -8,7 +7,7 @@
 
 - 💬 Ask me about **Open-source contribution, Motivation, Career Goals**
 
-- 📫 Reach out to me on <a href="https://www.linkedin.com/in/nikhil-ladha/"><img src="linkedin.svg" alt="LinkedIn Logo" width="20" height="20" align="center">LinkedIn</a>, <a href="https://twitter.com/NikhilLadha3"><img src="twitter.svg" alt="Twitter Logo" width="20" height="20" align="center">Twitter</a>
+- 📫 Reach out to me on <a href="https://www.linkedin.com/in/nikhil-ladha/"><img src="linkedin.svg" alt="LinkedIn Logo" width="20" height="20" align="center"> LinkedIn</a>, <a href="https://twitter.com/NikhilLadha3"><img src="twitter.svg" alt="Twitter Logo" width="20" height="20" align="center"> Twitter</a>
 
 <h4>Tech stacks which I have experience with</h4>
 <p align="left">
