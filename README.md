@@ -1,19 +1,16 @@
-<h1 align="center">Hello 👋, I'm Nikhil Ladha - A front end developer/Open-Source Contributor</h1>
+<img src="banner.gif" alt="Hello 👋, you seem to have found a way to my GitHub profile!">
+<h2 align="center">I am Nikhil Ladha a software engineer by profession (and passion, of course :p). Working at <a href="https://www.redhat.com/en">Red Hat</a> on <a href="https://www.gluster.org/">GlusterFS</a> - A scalable network file system. I also have keen interests in frontend developement and fullfill my desires through open-source contributions :), as result I also turn out to be a Maintainer/MeshMate at <a href="https://www.layer5.io">Layer5</a> - A service mesh company! </h2> 
 <h3 align="center">I am a Maintainer at <a href="github.com/layer5io">Layer5</a>. Always eager to learn new things and try them.</h3>
 
-- 🔭 I’m currently working on [GlusterFS](github.com/gluster)
-
-- 👯 I’m currently contributing at [Layer5](github.com/layer5io)
-
-- 💻 All of my projects are available at [Github](github.com/Nikhil-Ladha)
+- 💻 All of my projects are available at <a href="https://www.github.com/Nikhil-Ladha"><img src="github.svg" alt="GitHub" width="20" height="20">GitHub</a>
 
 - 📝 I often write articles on [Medium](medium.com/@nikhilladha1999)
 
 - 💬 Ask me about **Open-source contribution, Motivation, Career Goals**
 
-- 📫 Reach out to me at [LinkedIn](https://www.linkedin.com/in/nikhil-ladha/)
+- 📫 Reach out to me on <a href="https://www.linkedin.com/in/nikhil-ladha/"><img src="linkedin.svg">LinkedIn</a>, <a href="https://twitter.com/NikhilLadha3"><img src="twitter.svg">Twitter</a>
 
-<h4>Few tech stacks on which I have knowledge/experience</h4>
+<h4>Tech stacks which I have experience with</h4>
 <p align="left">
   <img src="./html5.svg" alt="HTML" width="40" height="40"/>
   <img src="./css.svg" alt="HTML" width="40" height="40"/>
@@ -24,8 +21,6 @@
   <img src="./c.svg" alt="HTML" width="40" height="40"/>
   <img src="./python.svg" alt="HTML" width="40" height="40"/>
   <img src="./mysql.svg" alt="HTML" width="40" height="40"/>
-  <img src="./bash.svg" alt="HTML" width="40" height="40"/>
-  <img src="./github.svg" alt="HTML" width="40" height="40"/>
 </p>
 
 <p align="center">
