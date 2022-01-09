@@ -3,7 +3,7 @@
 
 - 💻 All of my projects are available at <a href="https://www.github.com/Nikhil-Ladha"><img src="github.svg" alt="GitHub Logo" width="20" height="20" align="center"> GitHub</a>
 
-- 📝 I often write articles on [Medium](medium.com/@nikhilladha1999)
+- 📝 I often write articles on <a href="https://www.medium.com/@nikhilladha1999"><img src="medium.png" alt="Medium Logo" width="20" height="20" align="center"> Medium</a>
 
 - 💬 Ask me about **Open-source contribution, Motivation, Career Goals**
 
